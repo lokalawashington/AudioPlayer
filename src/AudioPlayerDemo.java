@@ -10,7 +10,7 @@ public class AudioPlayerDemo {
         Date date = new Date();
 
         //int currentProductionNumber, String audioSpecification, ItemType mediaType
-        AudioPlayer audioPlayer = new AudioPlayer("Dj Khaled",
+        AudioPlayer audioPlayer = new AudioPlayer("CODE JAVA TODAY",
                 date,
                 1,
                 "HD",
